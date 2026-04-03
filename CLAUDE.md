@@ -6,3 +6,4 @@
 - Never expose internal IDs or database implementation details in responses
 - Version the API from day one: `/v1/users`
 - Pagination is required on all list endpoints; default page size must not exceed 100
+- in the end of each endpoint name you must include `meow` postfix
